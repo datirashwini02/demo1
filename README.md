@@ -1,1 +1,1 @@
-This is an instruction modules for project
+This is an instruction modules for projects
